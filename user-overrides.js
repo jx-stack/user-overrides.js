@@ -1,6 +1,6 @@
 user_pref("keyword.enabled", true);
 user_pref("extensions.pocket.enabled", false);
-user_pref("identity.fxaccounts.enabled", false);
+user_pref("identity.fxaccounts.enabled", true);
 user_pref("places.history.enabled", false);
 user_pref("javascript.options.ion", false);
 user_pref("javascript.options.asmjs", false);
@@ -23,3 +23,4 @@ user_pref("media.webspeech.synth.enabled", false);
 user_pref("media.navigator.enabled", false);
 user_pref("browser.search.suggest.enabled", false);
 user_pref("browser.urlbar.suggest.searches", false);
+user_pref("privacy.resistFingerprinting.letterboxing", false);
