@@ -13,7 +13,6 @@ user_pref("browser.safebrowsing.malware.enabled", false);
 user_pref("browser.urlbar.suggest.history", false);
 user_pref("browser.urlbar.suggest.openpage", false);
 user_pref("browser.urlbar.suggest.topsites", false);
-user_pref("signon.management.page.breach-alerts.enabled");
 user_pref("layout.spellcheckDefault", 0);
 user_pref("signon.rememberSignons", false);
 user_pref("media.webspeech.synth.enabled", false);
